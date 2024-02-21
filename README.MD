@@ -1,8 +1,7 @@
-# Решение домашнего задания:
+## Решение домашнего задания:
+Решение: Задание [№1,2,3,4](https://github.com/SviatoslavZonov/import_modul/blob/main/main.py) и Задание [№5](https://github.com/SviatoslavZonov/import_modul/blob/main/dirty_main.py)
 
-
-
-# Домашнее задание к лекции 1. «Import. Module. Package»
+## Домашнее задание к лекции 1. «Import. Module. Package»
 
 1. Разработать **структуру** программы «Бухгалтерия»:
 - main.py;  
